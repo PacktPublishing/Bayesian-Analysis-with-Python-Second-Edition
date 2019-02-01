@@ -1,16 +1,15 @@
 # Bayesian-Analysis-with-Python-Second-Edition
 Bayesian Analysis with Python - Second Edition, published by Packt
 
-
+---
 **Please find the accompanying code and figures [here](https://github.com/aloctavodia/BAP)**
 
-# Bayesian-Analysis-with-Python-Second-Edition
+---
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/bayesian-analysis-python-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789341652"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11197_0.png" alt="Book Name" height="256px" align="right"></a>
 
 This is the code repository for [Bayesian-Analysis-with-Python-Second-Edition](https://www.packtpub.com/big-data-and-business-intelligence/bayesian-analysis-python-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789341652), published by Packt.
 
-**Perform end-to-end data analysis to gain efficient data insight**
 
 ## What is this book about?
 The second edition of Bayesian Analysis with Python is an introduction to the main concepts of applied Bayesian inference and its practical implementation in Python using PyMC3, a state-of-the-art probabilistic programming library, and ArviZ, a new library for exploratory analysis of Bayesian models.
