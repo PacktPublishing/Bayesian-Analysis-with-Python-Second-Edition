@@ -72,7 +72,7 @@ He has taught courses about structural bioinformatics, data science, and Bayesia
 
 
 
-## Other books by the authors
+## Other books by the author
 * [Bayesian Analysis with Python](https://www.packtpub.com/big-data-and-business-intelligence/bayesian-analysis-python?utm_source=github&utm_medium=repository&utm_campaign=9781785883804)
 
 
