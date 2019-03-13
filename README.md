@@ -65,7 +65,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Machine Learning Algorithms - Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-algorithms-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789347999) [[Amazon]](https://www.amazon.com/dp/1789347998)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **Osvaldo Martin**
 Osvaldo Martin is a researcher at The National Scientific and Technical Research Council (CONICET), in Argentina. He has worked on structural bioinformatics of protein, glycans, and RNA molecules. He has experience using Markov Chain Monte Carlo methods to simulate molecular systems and loves to use Python to solve data analysis problems.
 He has taught courses about structural bioinformatics, data science, and Bayesian data analysis. He was also the head of the organizing committee of PyData San Luis (Argentina) 2017. He is one of the core developers of PyMC3 and ArviZ.
